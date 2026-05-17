@@ -1,0 +1,42 @@
+[
+  {
+    "member": "group",
+    "era": "antifragile",
+    "image": "/mnt/d/HERMES/study/lesserafim-thigh-paper/data/candid_photos/antifragile/group/221023_Inkigayo_Photowall/img_001.jpeg",
+    "left_circ": 0.0716216042637825,
+    "right_circ": 34.140052795410156,
+    "avg_circ": 17.105836868286133
+  },
+  {
+    "member": "group",
+    "era": "antifragile",
+    "image": "/mnt/d/HERMES/study/lesserafim-thigh-paper/data/candid_photos/antifragile/group/221023_Inkigayo_Photowall/img_002.jpeg",
+    "left_circ": 0.11639690399169922,
+    "right_circ": 35.639034271240234,
+    "avg_circ": 17.877716064453125
+  },
+  {
+    "member": "sakura",
+    "era": "antifragile",
+    "image": "/mnt/d/HERMES/study/lesserafim-thigh-paper/data/candid_photos/antifragile/sakura/221017_ANTIFRAGILE_Showcase/img_001.jpeg",
+    "left_circ": 0.4298047125339508,
+    "right_circ": 26.44695281982422,
+    "avg_circ": 13.43837833404541
+  },
+  {
+    "member": "sakura",
+    "era": "antifragile",
+    "image": "/mnt/d/HERMES/study/lesserafim-thigh-paper/data/candid_photos/antifragile/sakura/221017_ANTIFRAGILE_Showcase/img_002.jpeg",
+    "left_circ": 2.16206431388855,
+    "right_circ": 49.92561721801758,
+    "avg_circ": 26.043840408325195
+  },
+  {
+    "member": "sakura",
+    "era": "antifragile",
+    "image": "/mnt/d/HERMES/study/lesserafim-thigh-paper/data/candid_photos/antifragile/sakura/221017_ANTIFRAGILE_Showcase/img_003.jpeg",
+    "left_circ": 3.1799373626708984,
+    "right_circ": 0.0,
+    "avg_circ": 1.5899686813354492
+  }
+]

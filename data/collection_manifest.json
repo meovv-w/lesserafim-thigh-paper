@@ -1,0 +1,75 @@
+{
+  "description": "LE SSERAFIM Multi-Epoch Image Collection for BLADE Inference",
+  "created": "2026-05-16",
+  "members": [
+    "sakura",
+    "chaewon",
+    "yunjin",
+    "kazuha",
+    "eunchae"
+  ],
+  "eras": {
+    "antifragile": {
+      "date": "2022-10",
+      "album": "ANTIFRAGILE",
+      "type": "mini"
+    },
+    "unforgiven": {
+      "date": "2023-05",
+      "album": "UNFORGIVEN",
+      "type": "full"
+    },
+    "easy": {
+      "date": "2024-02",
+      "album": "EASY",
+      "type": "mini"
+    },
+    "crazy": {
+      "date": "2024-08",
+      "album": "CRAZY",
+      "type": "mini"
+    },
+    "hot": {
+      "date": "2025-03",
+      "album": "HOT",
+      "type": "mini"
+    }
+  },
+  "image_count": {
+    "antifragile": {
+      "sakura": 0,
+      "chaewon": 0,
+      "yunjin": 0,
+      "kazuha": 0,
+      "eunchae": 0
+    },
+    "unforgiven": {
+      "sakura": 0,
+      "chaewon": 0,
+      "yunjin": 0,
+      "kazuha": 0,
+      "eunchae": 0
+    },
+    "easy": {
+      "sakura": 0,
+      "chaewon": 0,
+      "yunjin": 0,
+      "kazuha": 0,
+      "eunchae": 0
+    },
+    "crazy": {
+      "sakura": 0,
+      "chaewon": 0,
+      "yunjin": 0,
+      "kazuha": 0,
+      "eunchae": 0
+    },
+    "hot": {
+      "sakura": 0,
+      "chaewon": 0,
+      "yunjin": 0,
+      "kazuha": 0,
+      "eunchae": 0
+    }
+  }
+}
