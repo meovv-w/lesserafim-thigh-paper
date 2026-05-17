@@ -1,0 +1,87 @@
+{
+  "members": {
+    "sakura": {
+      "mean_cm": 73.5,
+      "std_cm": 2.4,
+      "n": 130,
+      "by_era": {
+        "antifragile": {
+          "mean_cm": 72.6,
+          "n": 26
+        },
+        "unforgiven": {
+          "mean_cm": 73.3,
+          "n": 15
+        },
+        "easy": {
+          "mean_cm": 74.5,
+          "n": 9
+        },
+        "crazy": {
+          "mean_cm": 73.9,
+          "n": 53
+        },
+        "hot": {
+          "mean_cm": 73.6,
+          "n": 27
+        }
+      }
+    },
+    "chaewon": {
+      "mean_cm": 74.0,
+      "std_cm": 1.3,
+      "n": 25,
+      "by_era": {
+        "crazy": {
+          "mean_cm": 73.9,
+          "n": 13
+        },
+        "hot": {
+          "mean_cm": 74.1,
+          "n": 12
+        }
+      }
+    },
+    "yunjin": {
+      "mean_cm": 77.5,
+      "std_cm": 2.8,
+      "n": 25,
+      "by_era": {
+        "unforgiven": {
+          "mean_cm": 77.3,
+          "n": 10
+        },
+        "crazy": {
+          "mean_cm": 77.6,
+          "n": 15
+        }
+      }
+    },
+    "kazuha": {
+      "mean_cm": 75.9,
+      "std_cm": 1.9,
+      "n": 23,
+      "by_era": {
+        "crazy": {
+          "mean_cm": 75.7,
+          "n": 16
+        },
+        "hot": {
+          "mean_cm": 76.2,
+          "n": 7
+        }
+      }
+    },
+    "eunchae": {
+      "mean_cm": 75.9,
+      "std_cm": 3.3,
+      "n": 7,
+      "by_era": {
+        "crazy": {
+          "mean_cm": 75.9,
+          "n": 7
+        }
+      }
+    }
+  }
+}
